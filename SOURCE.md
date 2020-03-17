@@ -16,7 +16,7 @@ IMAGE 1 ALT TEXT
 
 SMALLER SUB HEAD
 
-`Travel`
+<h3>`Travel`</h3>
 
 PARAGRAPH 1
 
