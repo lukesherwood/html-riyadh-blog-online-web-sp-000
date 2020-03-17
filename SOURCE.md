@@ -24,7 +24,7 @@ PARAGRAPH 1
 
 SMALLER SUB HEAD
 
-`History`
+<h3>`History`</h3>
 
 PARAGRAPH 2
 
