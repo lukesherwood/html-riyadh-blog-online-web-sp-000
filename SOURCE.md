@@ -52,7 +52,7 @@ IMAGE 3 ALT TEXT
 
 SMALLER SUB HEAD
 
-`Sources`
+<h3>Sources</h3>
 
 LINK 1
 
